@@ -1,6 +1,9 @@
 # FX-Option-Pricing
 Using QuantLib for FX Option Pricing. 
 
+Link to Colab: https://github.com/AniaSupady/FX-Option-Pricing/blob/main/QuantLib_for_FX_Option_Pricing.ipynb
+
+
 
 # QuantLib Overview
 
